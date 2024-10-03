@@ -1,3 +1,5 @@
+import requests
+
 SUMMARY_INDEX = "gracc.osg.summary"
 ENDPOINT = "https://gracc.opensciencegrid.org:443/q"
 HEADERS = {
